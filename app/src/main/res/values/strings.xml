@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Convert Json Data to Excel Format</string>
+    <string name="night_mode_off">NIGHT MODE OFF</string>
+    <string name="night_mode_on">Export Data</string>
+</resources>

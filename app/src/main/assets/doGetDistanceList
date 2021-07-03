@@ -1,0 +1,25 @@
+{
+  "distanceList̥": [
+    {
+      "date": "10-06-2021",
+      "km": "90",
+      "vehicleNo": "MH90HSGS4522"
+    }, {
+      "date": "17-05-2021",
+      "km": "50",
+      "vehicleNo": "MH44JDHX4512"
+    }, {
+      "date": "22-06-2021",
+      "km": "88",
+      "vehicleNo": "MH41DDDD5632"
+    }, {
+      "date": "15-05-2021",
+      "km": "66",
+      "vehicleNo": "MH38DHDB4206"
+    }, {
+      "date": "26-06-2021",
+      "km": "75",
+      "vehicleNo": "MH48NDBS4942"
+    }
+  ]
+}
